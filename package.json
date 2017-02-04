@@ -1,0 +1,22 @@
+{
+  "name": "rojs",
+  "version": "0.1.0",
+  "description": "Reflect oriented JavaScript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSerGit/rojs.git"
+  },
+  "keywords": [
+    "rojs", "reflect", "reactive"
+  ],
+  "author": "Bibik Sergey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSerGit/rojs/issues"
+  },
+  "homepage": "https://github.com/JSerGit/rojs#readme"
+}
